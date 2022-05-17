@@ -8,8 +8,8 @@ You can use any editor for this project. I recommend PyCharm as it is very simpl
 
 1. Install npm using this link -https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 2. Install following libraries from terminal:- 
-   npm init
-   npm -g http-server //for http server installation on local
-   pip install elasticsearch_dsl //eland for elastic search connectivity
+3. npm init
+4. npm -g http-server //for http server installation on local
+5. pip install elasticsearch_dsl //eland for elastic search connectivity
    
   
